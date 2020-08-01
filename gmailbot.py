@@ -4,7 +4,6 @@ import email
 import email.header
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-import apiai
 import json
 import sys
 import time
